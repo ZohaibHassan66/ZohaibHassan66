@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @ZohaibHassan66
-- 👀 I’m interested in Web Development and UI UX designin 
-- 🌱 I’m currently learning UI UX desiging 
-- 💞️ I’m looking to collaborate on Scrimba
-- 📫 How to reach me f23bdocs1m01156@gmail.com
+- 👀 I’m interested in Web Development and UI UX designin & Graphic Designing 
+- 📫 How to reach me zohaibhassan9866@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Color maching Is a Art And development Is a Biggest Art.
 
