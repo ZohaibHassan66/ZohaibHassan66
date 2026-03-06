@@ -19,13 +19,13 @@
 
 **Data & Database**
 
-[MySQL]
-[Excel]
-[Power BI]
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 **Programming**
 
-[Python]
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
@@ -52,4 +52,4 @@
 
 ## 📫 Contact Me
 
-[Gmail] zohaibhassan9866@gmail.com
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zohaibhassan9866@gmail.com)
