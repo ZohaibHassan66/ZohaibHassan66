@@ -1,10 +1,55 @@
-- 👋 Hi, I’m @ZohaibHassan66
-- 👀 I’m interested in Web Development and UI UX designin & Graphic Designing 
-- 📫 How to reach me zohaibhassan9866@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Color maching Is a Art And development Is a Biggest Art.
+# Hi, I'm Zohaib Hassan! 👋
 
-<!---
-ZohaibHassan66/ZohaibHassan66 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎯 Aspiring **Data Analyst** | CS Student at IUB | Turning data into decisions
+
+---
+
+## 👀 About Me
+
+- 🎓 BS Computer Science — The Islamia University of Bahawalpur (IUB)
+- 📊 Passionate about Data Analytics & Data Visualization
+- 🌱 Currently learning SQL, Power BI & Excel for Data Analysis
+- 💡 I believe: *"Good data tells a story — a great analyst tells it better."*
+- 😄 Pronouns: He / Him
+- 📫 Reach me at: **zohaibhassan9866@gmail.com**
+
+---
+
+## 🛠️ Skills & Tools
+
+**Data & Database**
+
+[MySQL]
+[Excel]
+[Power BI]
+
+**Programming**
+
+[Python]
+
+---
+
+## 📁 Projects
+
+### 🩸 Blood Donor Database
+> A relational database system built with MySQL to manage donors, blood banks, hospitals and patients.
+- Designed ERD & Relationship Diagrams
+- Implemented normalized tables (1NF)
+- Written SQL queries using JOINs, GROUP BY & Aggregations
+
+---
+
+## 📊 My Data Analyst Roadmap
+
+- [x] SQL Basics — SELECT, WHERE, GROUP BY
+- [x] JOIN Queries
+- [x] Database Design & Normalization
+- [ ] Advanced SQL — Window Functions, CTEs
+- [ ] Power BI Dashboards
+- [ ] Python for Data Analysis (Pandas)
+
+---
+
+## 📫 Contact Me
+
+[Gmail] zohaibhassan9866@gmail.com
